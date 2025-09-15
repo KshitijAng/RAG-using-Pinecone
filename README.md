@@ -1,7 +1,7 @@
 # RAG Pipeline with LangChain 🦜, OpenAI, and Pinecone
 
-![RAG Logo](assets/raglogo.png)
-![RAG Pipeline](assets/ragpipeline.png)
+![RAG Logo](raglogo.png)
+![RAG Pipeline](ragpipeline.png)
 
 ## Project Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using **LangChain**, **OpenAI**, and **Pinecone**.  
